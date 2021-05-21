@@ -15,7 +15,8 @@ priori = dbeta(theta, alpha,beta) # prior dist.
 posteriori = dbeta(theta , sumx+alpha,n-sumx+beta) # posteriori dist.
 
 # Plot de dist. posteriori
-plot(theta,posteriori,type='l') 
+plot(theta,posteriori,type='l',main = 'Bayesian Inference',
+     xlab = "theta", ylab="PDF") 
 lines(theta,posteriori,col='black',lty=1)
 # Plot de la distribution a priori
 lines(theta,priori,col="blue",lty=2)
