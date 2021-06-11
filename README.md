@@ -4,3 +4,7 @@ Examples of determination of posterior distributions with different priori and l
 Examples of applications of Markov chain Monte Carlo methods (e.g. Gibbs sampling).
 
 ![](ex_plot.png)
+
+Gibbs Sampling Estimations to multilinear regression
+
+![](Gibbs Sampling/MultilinearRegGibbs.png)
