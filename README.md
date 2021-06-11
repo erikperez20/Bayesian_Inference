@@ -7,4 +7,4 @@ Examples of applications of Markov chain Monte Carlo methods (e.g. Gibbs samplin
 
 Gibbs Sampling Estimations to multilinear regression
 
-![](Gibbs-Sampling/Rplot.png)
+![]("Gibbs Sampling/Rplot.png")
